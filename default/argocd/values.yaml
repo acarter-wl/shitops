@@ -4,8 +4,3 @@ argo-cd:
     params:
       server.insecure: true
   #exec.enabled: true
-  cm:
-    accounts.admin: login
-    accounts.admin.enabled: "true"
-    accounts.acarter: login
-    accounts.acarter.enabled: "true"
